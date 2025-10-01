@@ -14,4 +14,4 @@ Koazy is an AI-powered text summarization web app. Paste your text, and get conc
 - AI Model: HuggingFace Transformers (facebook/bart-large-cnn)
 - Deployment: [Netlify for frontend, Render for backend]
 
-To install this, you can clone the repository!
+### To install this, you can clone the repository!
